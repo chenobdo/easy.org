@@ -1,5 +1,11 @@
 {
     "require": {
-        "easyswoole/easyswoole": "3.x"
+        "easyswoole/easyswoole": "3.x",
+        "joshcam/mysqli-database-class": "dev-master"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "Application/"
+        }
     }
 }
