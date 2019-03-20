@@ -1,0 +1,2 @@
+[2019-03-20 10:17:41][Deprecated][file:/home/gabriel/code/easy/vendor/easyswoole/easyswoole/src/Console/Client.php][line:51]Swoole\Client::__construct(): async APIs will be removed in Swoole-v4.3.0, you should be using the coroutine APIs instead.
+[2019-03-20 10:17:52][Deprecated][file:/home/gabriel/code/easy/vendor/easyswoole/easyswoole/src/Console/Client.php][line:51]Swoole\Client::__construct(): async APIs will be removed in Swoole-v4.3.0, you should be using the coroutine APIs instead.
