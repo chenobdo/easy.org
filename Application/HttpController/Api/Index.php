@@ -9,6 +9,8 @@ namespace App\HttpController\Api;
 
 use EasySwoole\Http\AbstractInterface\Controller;
 use EasySwoole\Http\Message\Status;
+use App\Model\User\Bean;
+use
 
 class Index extends Controller;
 {

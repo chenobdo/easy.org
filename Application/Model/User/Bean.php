@@ -22,6 +22,10 @@ class Bean extends SplBean
         if (empty($this->addTime)) {
             $this->addTime = time();
         }
+
+        if (strlen($this->password) == 32) {
+            $this->password = md5($this->password);
+        }
     }
 
     /**
