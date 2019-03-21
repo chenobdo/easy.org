@@ -47,10 +47,10 @@ return [
     ],
     'DISPLAY_ERROR' => true,
 
-    'MYSQL'=>[
-        'HOST'=>'',
-        'USER'=>'root',
-        'PASSWORD'=>'',
-        'DB_NAME'=>'test'
+    'MYSQL' => [
+        'HOST'     => '127.0.0.1',
+        'USER'     => 'homestead',
+        'PASSWORD' => 'secret',
+        'DB_NAME'  => 'easy'
     ]
 ];
